@@ -15,6 +15,7 @@ https://docs.google.com/a/metropolia.fi/presentation/d/1tdLMGggbbQ3687MnQpGZFQKo
 Tämä tehtävä oli yllättävän vaikea, vaikka päädyin lopulta valitsemaan Tumblr-API:n, jota käytin myös edellisessä jaksossa. Kaikki funktioni taitavat olla samassa kasassa, ihan vain siksi, että löysin tällä mallilla toimivan esimerkki-ratkaisun netistä, jota sitten muutin itselleni sopivaksi tässä.
 
 https://github.com/jeminalinnama/api-exercise/blob/master/index.html
+
 https://github.com/jeminalinnama/api-exercise/blob/master/script.js
   
 ---
